@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Studio Projects/107_GokulDham/app/src/main/res/drawable-v24/buttonshape.xml" value="0.26614583333333336" />
+        <entry key="..\:/Android Studio Projects/107_GokulDham/app/src/main/res/drawable-v24/circlebackgroundgreen.xml" value="0.22121212121212122" />
+        <entry key="..\:/Android Studio Projects/107_GokulDham/app/src/main/res/drawable-v24/ic_image.xml" value="0.22121212121212122" />
+        <entry key="..\:/Android Studio Projects/107_GokulDham/app/src/main/res/drawable-v24/ic_login.xml" value="0.26614583333333336" />
+        <entry key="..\:/Android Studio Projects/107_GokulDham/app/src/main/res/drawable/btn.xml" value="0.26614583333333336" />
+        <entry key="..\:/Android Studio Projects/107_GokulDham/app/src/main/res/drawable/edittext_back.xml" value="0.22412280701754386" />
+        <entry key="..\:/Android Studio Projects/107_GokulDham/app/src/main/res/drawable/edittext_bg.xml" value="0.22412280701754386" />
+        <entry key="..\:/Android Studio Projects/107_GokulDham/app/src/main/res/drawable/ic_notice.xml" value="0.22121212121212122" />
+        <entry key="..\:/Android Studio Projects/107_GokulDham/app/src/main/res/layout-small/activity_dashboard.xml" value="0.21052631578947367" />
+        <entry key="..\:/Android Studio Projects/107_GokulDham/app/src/main/res/layout/activity_addcontacts.xml" value="0.264" />
+        <entry key="..\:/Android Studio Projects/107_GokulDham/app/src/main/res/layout/activity_contact.xml" value="0.264" />
+        <entry key="..\:/Android Studio Projects/107_GokulDham/app/src/main/res/layout/activity_dashboard.xml" value="0.264" />
+        <entry key="..\:/Android Studio Projects/107_GokulDham/app/src/main/res/layout/activity_gallery.xml" value="0.21052631578947367" />
+        <entry key="..\:/Android Studio Projects/107_GokulDham/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Android Studio Projects/107_GokulDham/app/src/main/res/layout/activity_notice.xml" value="0.21052631578947367" />
+        <entry key="..\:/Android Studio Projects/107_GokulDham/app/src/main/res/layout/activity_otpverify.xml" value="0.264" />
+        <entry key="..\:/Android Studio Projects/107_GokulDham/app/src/main/res/layout/activity_registration.xml" value="0.25" />
+        <entry key="..\:/Android Studio Projects/107_GokulDham/app/src/main/res/layout/activity_signup.xml" value="0.25" />
+        <entry key="..\:/Android Studio Projects/107_GokulDham/app/src/main/res/layout/ic_contacts.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
